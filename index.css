@@ -1,0 +1,25 @@
+.bg-orange {
+    background-color: #FF4500;
+}
+
+.nav-link {
+    color: white;
+}
+
+form {
+    max-width: 600px;
+}
+
+.bi {
+    font-size: 100px;
+    color: #FF4500;
+}
+
+#services h3+p {
+    color: grey;
+}
+
+.row {
+    --bs-gutter-x: 0;
+    margin: auto;
+}
